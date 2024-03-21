@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\DependencyInjection",
+    "\\DependencyInjection\\Controllers",
+    "\\Repositories",
+    "\\Services"
+  ],
+  "SelectedNode": "\\Repositories\\Repo2.cs",
+  "PreviewInSolutionExplorer": false
+}
